@@ -1,6 +1,4 @@
 '''
-Examen final: Sergio Alexander Hernandez Mendez 
-
 Calcular los vertices de un triangulo con los siguientes datos
 Parametros: 
 1.-Un punto (X&Y)
@@ -59,7 +57,7 @@ def main():
     p2.append(calcular_y(distancia2, angulo2, p1[1]))
     print(p2[0], p2[1])
 
-    plt.title("Examen Final Triangulo")
+    plt.title("Triangulo")
     plt.xlabel("x")
     plt.ylabel("y")
 
