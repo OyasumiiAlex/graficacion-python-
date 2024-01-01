@@ -9,6 +9,8 @@
 <p> Finalizado || Finished </p>
 
 > [!IMPORTANT]
+> Antes de ejecutar tome en cuenta
+
 #### Proceso de instalacion 
 <p> Make sure you have python and the corresponding libraries installed | Asegurate de tener instalado python y las librerias correspondientes: </p>
 
@@ -23,6 +25,7 @@ python "file".py
 ```
 
 > [!NOTE]
+> Aqui se encuentran capturas sobre cada algoritmo e información
 
 ## Estructura del Proyecto
 
