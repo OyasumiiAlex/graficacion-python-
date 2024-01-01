@@ -8,8 +8,7 @@
 #### Estado del Proyecto
 <p> Finalizado || Finished </p>
 
-> `[!IMPORTANT]`
-
+> [!IMPORTANT]
 #### Proceso de instalacion 
 <p> Make sure you have python and the corresponding libraries installed | Asegurate de tener instalado python y las librerias correspondientes: </p>
 
@@ -23,7 +22,7 @@ pip install "libname"
 python "file".py
 ```
 
-> `[!NOTE]`
+> [!NOTE]
 
 ## Estructura del Proyecto
 
